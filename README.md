@@ -1,3 +1,5 @@
+# 💫 About Me:
+
 # Hi, I'm Joshua Edwin Rajan A 👋
 
 **Final-year B.Tech (AI & DS)** student at **Erode Sengunthar Engineering College (ESEC)** and an **Intern at Bi3 Technologies**.  
@@ -9,87 +11,27 @@ I build projects across **Web Development, Data Engineering, AI/ML**, and **Prob
 - 🌐 Domains: **Web Development • Data Engineering • AI/ML • Problem Solving**
 - 🔗 LinkedIn: https://in.linkedin.com/in/joshua-edwin-rajan
 
----
 
-## Tech Stack (Strengths)
-**Web Development**
-- TypeScript / JavaScript
-- Modern web frameworks (project work includes TypeScript-heavy apps)
-- UI styling (CSS)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://in.linkedin.com/in/joshua-edwin-rajan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joshua992700@gmail.com) 
 
-**Backend / Data**
-- Python (multiple repos)
-- SQL / database work (your `keno` repo includes SQL/PLpgSQL usage)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Joshua992700&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Joshua992700&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua992700&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-**AI / ML**
-- Python ecosystem for ML experiments and prototyping
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Joshua992700&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-**Tools & Practices**
-- Git & GitHub
-- Building projects end-to-end (from UI to backend/data)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-## Featured Projects
-> Repos you shared (I can refine these bullets once you confirm each project’s exact scope/features).
-
-### 🔹 keno — Personal Chatbot (TypeScript)
-**Repo:** https://github.com/Joshua992700/keno  
-A personal chatbot project built primarily with **TypeScript**, with styling and database components.
-
-**Highlights**
-- TypeScript-first codebase
-- Includes database scripting components (SQL/PLpgSQL)
-- Structured like a modern web app (includes `app/`, `components/`, `lib/`)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Joshua992700&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Joshua992700&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🔹 Torex (JavaScript)
-**Repo:** https://github.com/Joshua992700/Torex  
-JavaScript-based project (public).  
-*(Share a 1–2 line description and I’ll make this section specific.)*
-
----
-
-### 🔹 ESEC-Portal (Python)
-**Repo:** https://github.com/Joshua992700/ESEC-Portal  
-Python-based portal project (public), likely aligned with ESEC workflows/use-cases.  
-*(If it’s Flask/Django/FastAPI, tell me and I’ll add correct run steps.)*
-
----
-
-### 🔹 lucky_prediction
-**Repo:** https://github.com/Joshua992700/lucky_prediction  
-Project repo created for prediction/analytics work.  
-*(Repo metadata didn’t expose the primary language; tell me the stack and I’ll update.)*
-
----
-
-### 🔹 the-eventbridge-circuit-breaker (Python)
-**Repo:** https://github.com/Joshua992700/the-eventbridge-circuit-breaker  
-Python project exploring a circuit-breaker style pattern around **EventBridge** concepts/use-cases.  
-*(If this is AWS-focused, tell me the architecture and I’ll add it.)*
-
----
-
-## Achievements & Highlights
-- ✅ Final-year AI & DS student actively building real-world projects
-- ✅ Internship experience at **Bi3 Technologies**
-- ✅ Hands-on work across **TypeScript/JavaScript + Python + databases**
-
----
-
-## What I'm looking for
-I’m interested in opportunities and collaboration in:
-- **Web Development (Frontend / Full-Stack)**
-- **Data Engineering**
-- **AI/ML Projects**
-- **Problem Solving / Competitive Programming style work**
-
----
-
-## Connect
-- LinkedIn: https://in.linkedin.com/in/joshua-edwin-rajan
-
----
-⭐ If you find my projects interesting, feel free to follow and connect!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
