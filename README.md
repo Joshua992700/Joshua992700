@@ -22,8 +22,9 @@ I build projects across **Web Development, Data Engineering, AI/ML**, and **Prob
 ![Language Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joshua992700&theme=radical)
 ![Most Used Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Joshua992700&theme=radical)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Joshua992700&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!--START_SECTION:waka-->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua992700&layout=default&theme=dark&langs_count=8&hide_border=true)
+<!--END_SECTION:waka-->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
